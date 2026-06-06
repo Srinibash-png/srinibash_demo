@@ -1,5 +1,5 @@
 # srinibash_demo
 This is my first  Git repository.
 <br>
-Author- T.Srinibash Patra
+Author- Srinibash(NISTU)
 
